@@ -1,0 +1,46 @@
+.sentence{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    font-size: 40px;
+}
+
+.vdo{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    left: 100px;    
+}
+
+.button-containers{
+    text-align: center;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+button {
+    
+    margin: 10px 50px; /* Adjust as needed */
+}
+
+#reveal{
+    background-color: #fa97cc; /* Green color */
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    display: inline-block; /* Ensure buttons are inline */
+    padding: 20px 30px;
+}

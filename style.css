@@ -1,0 +1,55 @@
+.sentence{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    font-size: 40px;
+}
+
+.vdo{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;  
+}
+
+.button-containers{
+    text-align: center;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+button {
+    
+    margin: 10px 50px; /* Adjust as needed */
+}
+
+#yes-button {
+    background-color: #23ff2b; /* Green color */
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    display: inline-block; /* Ensure buttons are inline */
+    padding: 10px 20px;
+}
+
+#no-button{
+    background-color: #fd2626; /* Green color */
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 16px;
+    display: inline-block; /* Ensure buttons are inline */
+}
+  

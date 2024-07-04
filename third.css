@@ -1,0 +1,16 @@
+.vdo{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 50vh    
+}
+
+.sentence{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    font-size: 40px;
+}
